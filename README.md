@@ -16,11 +16,8 @@ This repository contains a collection of programming problems focused on perform
 10 Find the elements and calculate the sum of the middle row.
 
 Pattern:
-11. n = 4		      12. n = 4
-	    *		    	         ****
-	    **		    	       ***
-	    ***		    	       **
-	    ****		    	     *
+11. Create a triangular pattern with n rows where each row contains stars (*) equal to its row number.
+12. Create an inverted triangular pattern with n rows. The first row contains n stars (*), and each subsequent row contains one less star than the previous row.
 
 String Tasks:
 13. Take input of two strings and perform the following operations:
