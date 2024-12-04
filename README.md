@@ -41,3 +41,6 @@ Output:
 
 Structure Tasks:
 15. Write an array of structures to store and view information of 10 students or more (Name, ID, CGPA, Age, Courses) and Calculate the total CGPA of all students.
+
+Run Problem
+rename it and remove the dot(.).
