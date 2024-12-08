@@ -42,5 +42,10 @@ Output:
 Structure Tasks:
 15. Write an array of structures to store and view information of 10 students or more (Name, ID, CGPA, Age, Courses) and Calculate the total CGPA of all students.
 
+Function:
+16. Find the sum of even number in a given range to solve it by using user-defined function.
+17. Print the fibonnacci series.
+18. Factorial of n terms.
+
 Run Problem
 rename it and remove the dot(.).
